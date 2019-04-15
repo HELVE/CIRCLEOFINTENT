@@ -10,6 +10,11 @@ Two independent circles underneath the screen band with red lasers rotating in o
 
 ## Modules
 
+- Circular Screen Module (default, 4 parts)
+- Audio Guidance Module
+- Laser Visualization Module (Vertical/Horizontal)
+- Attachment Module (for wall placement)
+
 ## Philosophy
 
 4 directions for the circle (Intent, Self, Others, ?)
