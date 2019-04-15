@@ -7,6 +7,7 @@ Lasers can also we setup upwards so they form a wall around the meditator. The w
 
 4 directions for the circle (Intent, Self, Others, ?)
 
-"Focus on your intent"
-"Focus on your body"
-"Purge your mind from thoughts"
+Audio pings rotating every 15 minutes. Total of an hour session.
+5min "Focus on your intent"
+5min "Focus on your body"
+5min "Purge your mind from thoughts"
