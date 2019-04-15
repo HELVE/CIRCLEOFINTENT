@@ -1,4 +1,4 @@
-# CIRCLEOFINTENT
+# CIRCLE OF INTENT - Augment Your Mindfulness
 Physical Meditation Visual/Auditory Assist Accessory
 
 Circular screen in 4 parts. Custom rotating text/code.
