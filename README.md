@@ -1,5 +1,5 @@
 Mockup image/inspiration image.
-!()[P5-SMD-Screen-Circular-Ring.jpg]
+![](P5-SMD-Screen-Circular-Ring.jpg)
 
 # CIRCLE OF INTENT - Augment Your Mindfulness
 Physical Meditation Visual/Auditory Assist Accessory
