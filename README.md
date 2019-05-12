@@ -20,6 +20,9 @@ Two independent circles underneath the screen band with red lasers rotating in o
 4 directions for the circle (Intent, Self, Others, ?)
 
 Audio pings rotating every 15 minutes. Total of an hour session.
+
 5min "Focus on your intent"
+
 5min "Focus on your body"
+
 5min "Purge your mind from thoughts"
