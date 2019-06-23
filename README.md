@@ -26,3 +26,5 @@ Audio pings rotating every 15 minutes. Total of an hour session.
 5min "Focus on your body"
 
 5min "Purge your mind from thoughts"
+
+Chakra Mode - opening 7 rivers
