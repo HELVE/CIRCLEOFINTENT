@@ -53,4 +53,4 @@ CIRCLE OF INTENT MODULE
 3min break
 
 "Please draw a full mental circle around you."
-"This is your **space of general intent**. Thought processes now need to be grounded to observed reality will gain initial direction and create basis for willpower. Think about your day's overall intent and focus."
+"This is your **space of general intent**. Thought processes now need to be grounded on the observed reality and will gain initial direction and create a spark of willpower due to clarity. Think about your day's overall intent and focus."
