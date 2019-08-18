@@ -28,3 +28,29 @@ Audio pings rotating every 15 minutes. Total of an hour session.
 5min "Purge your mind from thoughts"
 
 Chakra Mode - opening 7 rivers
+
+## Initial Script
+For a mental version of the Circle of Intent.
+
+CIRCLE OF INTENT MODULE
+“Initiating Circle of Intent Module.”
+
+5 sec break
+
+"Please draw 1/4th of a mental circle around you."
+"This is your **space of self-intent**. Thoughts processes directed inwards will stabilize your existing inner energy and ground your approach to yourself. Think about how you intend to treat yourself."
+
+3min break
+
+"Please draw 2/4th of a mental circle around you."
+"This is your **space of outward intent**. Thought processes directed outward will stabilize your perception of others and create the way forward. Think about how you intend to treat others."
+
+3min break
+
+"Please draw a 3/4th full mental circle around you."
+"This is your **space of higher intent**. Thought processes directed into the void will summon positive energy within you. Think about how you intend to use that energy."
+
+3min break
+
+"Please draw a full mental circle around you."
+"This is your **space of general intent**. Thought processes now need to be grounded to observed reality will gain initial direction and create basis for willpower. Think about your day's overall intent and focus."
