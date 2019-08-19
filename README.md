@@ -30,7 +30,7 @@ Audio pings rotating every 15 minutes. Total of an hour session.
 Chakra Mode - opening 7 rivers
 
 ## Initial Script
-For a mental version of the Circle of Intent.
+For a mental version of the Circle of Intent:
 
 CIRCLE OF INTENT MODULE
 “Initiating Circle of Intent Module.”
